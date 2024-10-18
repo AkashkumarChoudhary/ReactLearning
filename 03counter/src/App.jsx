@@ -25,10 +25,10 @@ function App() {
     }
   }
 
-  return (
+  return ( 
     <>
       <h1>chai aur react</h1>
-      <h2>kaise ho akash</h2>
+      <h2>Counter Value : {counter}</h2>
       <button 
       onClick={addValue}>
         AddValue{counter}</button>

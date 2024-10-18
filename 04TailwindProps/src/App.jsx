@@ -34,7 +34,7 @@ function App() {
       </div>
     </figcaption>
   </div>
-</figure> */}
+</figure> */ }
 
 
     </>
